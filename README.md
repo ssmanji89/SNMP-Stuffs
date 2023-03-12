@@ -4,7 +4,7 @@
 - [SNMP Traps Received Tab in the Control Center](https://docs.connectwise.com/ConnectWise_Automate_Documentation/070/175/090/010)
 - [SNMP Trap Receivers Tab in the Control Center](https://docs.connectwise.com/ConnectWise_Automate_Documentation/070/175/090/020)
 
-# MIB OID References
+# General MIB OID References
 ## Network infrastructure
 ### Routers
     - Cisco (OID: 1.3.6.1.4.1.9)
