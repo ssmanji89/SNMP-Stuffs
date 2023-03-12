@@ -1,11 +1,11 @@
 # CW Automate / LabTech - Network Probe (Traps Filters)  
 # Documentation References 
-[SNMP Traps in the Control Center](https://docs.connectwise.com/ConnectWise_Automate_Documentation/070/175/090)
-[SNMP Traps Received Tab in the Control Center](https://docs.connectwise.com/ConnectWise_Automate_Documentation/070/175/090/010)
-[SNMP Trap Receivers Tab in the Control Center](https://docs.connectwise.com/ConnectWise_Automate_Documentation/070/175/090/020)
+- [SNMP Traps in the Control Center](https://docs.connectwise.com/ConnectWise_Automate_Documentation/070/175/090)
+- [SNMP Traps Received Tab in the Control Center](https://docs.connectwise.com/ConnectWise_Automate_Documentation/070/175/090/010)
+- [SNMP Trap Receivers Tab in the Control Center](https://docs.connectwise.com/ConnectWise_Automate_Documentation/070/175/090/020)
 
 ## Sample SNMP Traps Receiver DB Entry
-INSERT INTO snmptraps (TrapID, ComputerID, IPAddress, Comparor, Result, Name, OID, AlertActionID, AlertMessage, GenericCompare) VALUES (1, 1, '192.168.1.1', 0, 'Trap received from Cisco router', 'Cisco Router', '1.3.6.1.4.1.9', 1, 'SNMP trap received from Cisco router', 0);
+`INSERT INTO snmptraps (TrapID, ComputerID, IPAddress, Comparor, Result, Name, OID, AlertActionID, AlertMessage, GenericCompare) VALUES (1, 1, '192.168.1.1', 0, 'Trap received from Cisco router', 'Cisco Router', '1.3.6.1.4.1.9', 1, 'SNMP trap received from Cisco router', 0);`
 
 # MIB OID References
 ## Network infrastructure
