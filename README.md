@@ -132,7 +132,7 @@
     - Bosch (OID: 1.3.6.1.4.1.5955)
     - Hikvision (OID: 1.3.6.1.4.1.39165)
     - Vivotek (OID: 1.3.6.1.4.1.25876)
-    - Panasonic (OID: 1.3.6.1.4.1.1694)
+    - Panasonic (OID: 1.3.6.1.4.1.1694) 
     - Pelco (OID: 1.3.6.1.4.1.12619)
     - Hanwha Techwin (OID: 1.3.6.1.4.1.4128)
     - ACTi (OID: 1.3.6.1.4.1.25666)
